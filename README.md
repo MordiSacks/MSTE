@@ -7,7 +7,7 @@ Change Log:
 0.1
 Added option to ignore cell by adding class "mste_no_export"
 Warning
-To remove a column you must add the class "mste_no_export" to all cells (th,td)
+To remove a column you must add the class "mste_no_export" to all cells (th,td) 
 
 Usage
 ```html

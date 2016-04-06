@@ -1,6 +1,6 @@
 /*!
  * Created by Mordi on 24/06/15.
- * Elibyy , class this up.
+ * Elibyy, class this up.
  * License: wtfpl (google it)
  * Updated: 2016-04-06
  */
